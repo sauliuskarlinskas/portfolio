@@ -49,6 +49,7 @@
     width: 100%;
     padding: 60px 0;
     float: left;
+    background-color: aqua;
 }
 .container > .row {
     width: var(--width);
@@ -64,6 +65,7 @@
 .row > [class*='col-'] {
     float: left;
     margin: var(--half-gap);
+    background-color: crimson;
 }
 .row > .col-1 {
     width: var(--c1);
